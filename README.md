@@ -1,5 +1,5 @@
 # CHADIAN_texts_datasets_for_hate_speech
-#These datasets collected from Facebook in Chadian and French mixed language containing comments and Posts is labeled in four
+#These datasets collected from Facebook in Chadian and French mixed language for detection hate speech text. The datasets are containing Posts&Comments labeled into four
 categories (hate, offensive, insult, neutral).
 if you find this dataset and the code helpful don't forget to cite the original paper 
 https://ieeexplore.ieee.org/document/9720792
